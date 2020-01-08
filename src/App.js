@@ -1,9 +1,9 @@
 import React from 'react';
 
+import Card from './card/Card'
+
 const App = () => (
-  <div>
-    Hello, world!
-  </div>
+  <Card />
 );
 
 export default App;
