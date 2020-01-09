@@ -5,7 +5,7 @@ html {
 }
 
 .profile-card--container {
-  border: 1px solid black;
+  border: 1px solid lightgray;
   display: flex;
   height: 250px;
   margin: 0 auto;
@@ -18,14 +18,14 @@ html {
 }
 
 .profile-card--avatar-image {
-  border: 1px solid black;
+  border: 1px solid lightgray;
   border-radius: 2.5rem;
   height: 214px;
   width: 214px;
 }
 
 .profile-card--info-container {
-  border-left: 1px solid black;
+  border-left: 1px solid lightgray;
   display: flex;
   flex-direction: column;
   flex-grow: 1;
