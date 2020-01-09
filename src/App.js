@@ -1,9 +1,9 @@
 import React from 'react';
 
-import Card from './card/Card'
+import ProfileCard from './profile-card/ProfileCard'
 
 const App = () => (
-  <Card />
+  <ProfileCard />
 );
 
 export default App;

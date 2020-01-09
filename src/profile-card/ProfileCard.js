@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './Card.css';
+import './ProfileCard.css';
 import avatar from './ewok-avatar-icon.png';
 
 const ProfileCard = () => (
