@@ -1,0 +1,12 @@
+.profile-card--avatar-container {
+  background-color: lightgray;
+  padding: 1.6rem;
+}
+
+.profile-card--avatar-image {
+  border: 1px solid lightgray;
+  border-radius: 2.5rem;
+  height: 214px;
+  width: 214px;
+}
+

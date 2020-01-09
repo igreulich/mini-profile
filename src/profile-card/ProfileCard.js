@@ -1,13 +1,12 @@
 import React from 'react';
 
+import ProfileCardAvatar from './ProfileCardAvatar';
+
 import './ProfileCard.css';
-import avatar from './ewok-avatar-icon.png';
 
 const ProfileCard = () => (
   <div className="profile-card--container">
-    <div className="profile-card--avatar-container">
-      <img className="profile-card--avatar-image" src={avatar} alt="Profile Avatar" />
-    </div>
+    <ProfileCardAvatar />
     <div className="profile-card--info-container">
       <div className="profile-card--info-profile">
         <p className="profile-card--fullname">Ian Greulich</p>
